@@ -4,7 +4,7 @@ title: '1975/1993: Alejandro De Tomaso al mando de Maserati'
 introduction: Pasión en miniatura presenta los modelos más icónicos de la era De Tomaso,
   piloto bonaerense que huyó de la Argentina peronista para convertirse en un empresario
   de éxito en Italia
-author: "matteo"
+author: matteo
 categories:
 - Maserati
 tags:
@@ -12,7 +12,7 @@ tags:
 - Maserati Quattroporte
 - Maserati Biturbo
 - Maserati Karif
-image: "assets/uploads/Maserati Biturbo.jpg"
+image: "/v1560707782/uploads/maserati-biturbo.jpg"
 date: 2019-02-25T23:00:00.000+00:00
 comments: true
 featured: false
