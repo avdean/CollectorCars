@@ -1,0 +1,33 @@
+---
+label: Authors
+hide_body: true
+fields:
+- type: field_group
+  name: authors
+  label: authors
+  fields:
+  - type: field_group
+    name: matteo
+    label: matteo
+    fields:
+    - type: text
+      name: name
+      label: name
+    - type: text
+      name: display_name
+      label: display_name
+    - type: text
+      name: gravatar
+      label: gravatar
+    - type: text
+      name: email
+      label: email
+    - type: text
+      name: web
+      label: web
+    - type: text
+      name: twitter
+      label: twitter
+    - type: text
+      name: description
+      label: description
