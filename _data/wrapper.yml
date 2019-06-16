@@ -1,0 +1,8 @@
+---
+navigation:
+- title: Home
+  url: "/"
+- title: Sobre Nosotros
+  url: "/sobre-nosotros"
+- title: Contacto
+  url: "/contacto"
