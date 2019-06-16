@@ -6,6 +6,8 @@ fields:
 - type: text
   name: layout
   label: layout
+  hidden: true
+  default: post
 - type: text
   name: title
   label: title
@@ -33,3 +35,6 @@ fields:
 - type: boolean
   name: featured
   label: featured
+pages:
+- _posts/2019-02-25-1975-1993-alejandro-de-tomaso-al-mando-de-maserati.md
+- _posts/2019-03-01-tres-coches-soviéticos-que-tuvieron-éxito-en-occidente.md
