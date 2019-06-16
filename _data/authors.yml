@@ -1,10 +1,10 @@
-# Authors
+---
 authors:
   matteo:
     name: Matteo
     display_name: Matteo
     gravatar: e56154546cf4be74e393c62d1ae9f9d4
-    email: ""
-    web: ""
-    twitter: ""
-    description: "Describe yourself"
+    email: ''
+    web: ''
+    twitter: ''
+    description: Describe yourself
