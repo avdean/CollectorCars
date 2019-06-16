@@ -16,9 +16,11 @@ fields:
     - type: text
       name: display_name
       label: display_name
-    - type: text
-      name: gravatar
-      label: gravatar
+    - name: gravatar
+      type: file
+      config:
+        maxSize: 250
+      label: Avatar Image
     - type: text
       name: email
       label: email
