@@ -26,7 +26,7 @@ featured: true
 ---
 ### Cuba antes de Fidel
 
-Durante el régimen de Batista los americanos viajaban a La Habana para disfrutar de las playas, de los puros, del ron y sobre todo de los casinos. Tras su llegada al poder el dictador relajó las normas que regulaban el juego y prometió licencias a los que invertían dinero en la isla; en poco tiempo los dólares de la mafia inundaron Cuba y jefes como Meyer Lansky y **Lucky Luciano** establecieron contactos directos con Batista. Esta realidad queda retratada en la segunda entrega de **El Padrino** que nos enseña los últimos días de su reinado y la huida de burgueses y extranjeros ahuyentados por la victoria socialista.
+Durante el régimen de Batista los americanos viajaban a La Habana para disfrutar de las playas, de los puros, del ron y sobre todo de los casinos. Tras su llegada al poder el dictador relajó las normas que regulaban el juego y prometió licencias a los que invertían dinero en la isla; en poco tiempo los dólares de la mafia inundaron Cuba y jefes como Meyer Lansky y [**Lucky Luciano**](https://antvd.space) establecieron contactos directos con Batista. Esta realidad queda retratada en la segunda entrega de **El Padrino** que nos enseña los últimos días de su reinado y la huida de burgueses y extranjeros ahuyentados por la victoria socialista.
 
 <img src="https://images-na.ssl-images-amazon.com/images/I/51MLUmL3XeL._SL1000_.jpg" class="responsive-img center">
 
