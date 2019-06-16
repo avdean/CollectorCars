@@ -12,10 +12,11 @@ tags:
 - Lada Zhiguli
 - Moskvitch 412
 - Lada Niva
-image: assets/uploads/s-l1600.jpg
+image: ''
 date: 2019-03-01T23:00:00.000+00:00
 comments: true
 featured: false
+author: ''
 
 ---
 ### Moskvitch 412

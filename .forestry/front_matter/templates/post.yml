@@ -33,3 +33,5 @@ fields:
 - type: boolean
   name: featured
   label: featured
+pages:
+- _posts/2019-03-01-tres-coches-soviéticos-que-tuvieron-éxito-en-occidente.md
