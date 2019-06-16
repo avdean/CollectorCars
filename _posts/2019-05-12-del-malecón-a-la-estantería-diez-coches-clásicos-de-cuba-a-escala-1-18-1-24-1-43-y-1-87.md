@@ -18,21 +18,21 @@ tags:
 - Ford Model T
 - Ford Model A
 - Buick Electra
-image: "assets/uploads/Ford Fairlane.jpg"
-date: 2019-05-12 22:00:00 +0000
+image: assets/uploads/Ford Fairlane.jpg
+date: 2019-05-12T22:00:00.000+00:00
 comments: true
 featured: true
 
 ---
 ### Cuba antes de Fidel
 
-Durante el régimen de Batista los americanos viajaban a La Habana para disfrutar de las playas, de los puros, del ron y sobre todo de los casinos. Tras su llegada al poder el dictador relajó las normas que regulaban el juego y prometió licencias a los que invertían dinero en la isla; en poco tiempo los dólares de la mafia inundaron Cuba y jefes como Meyer Lansky y **Lucky Luciano** establecieron contactos directos con Batista. Esta realidad queda retratada en la segunda entrega de **El Padrino** que nos enseña los últimos días de su reinado y la huida de burgueses y extranjeros ahuyentados por la victoria socialista.
+Durante el régimen de Batista los americanos viajaban a La Habana para disfrutar de las playas, de los puros, del ron y sobre todo de los casinos. Tras su llegada al poder el dictador relajó las normas que regulaban el juego y prometió licencias a los que invertían dinero en la isla; en poco tiempo los dólares de la mafia inundaron Cuba y jefes como Meyer Lansky y [**Lucky Luciano**](antvd.space "Test") establecieron contactos directos con Batista. Esta realidad queda retratada en la segunda entrega de **El Padrino** que nos enseña los últimos días de su reinado y la huida de burgueses y extranjeros ahuyentados por la victoria socialista.
 
 <img src="https://images-na.ssl-images-amazon.com/images/I/51MLUmL3XeL._SL1000_.jpg" class="responsive-img center">
 
 Antes de la victoria de los barbudos, Michael Corleone aterriza en Cuba para participar en una cumbre mafiosa y en el aeropuerto es recibido por un **Mercury Montclair** de los cincuenta. Para llegar al hotel, Michael y sus acompañantes cruzan La Habana en un sedán de 1957, la versión cubierta del coche que aparece en las fotos.
 
-<img src="https://images-na.ssl-images-amazon.com/images/I/510HbUVMJhL.jpg" class="responsive-img center">
+![](https://images-na.ssl-images-amazon.com/images/I/510HbUVMJhL.jpg)
 
 La miniatura de SunStar reproduce el Mercury Montclair Convertible de 1956, uno de los modelos más exclusivos de la posguerra. Su precio era de **2.900 $** – más o menos 27.000 $ actuales – y podía aumentar añadiendo los lavaparabrisas, una radio AM, un reloj eléctrico o un calentador.
 
