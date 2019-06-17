@@ -1,5 +1,5 @@
 ---
-layout: Post
+layout: post
 title: Cinco maquetas para celebrar el Fiat Panda
 introduction: El Fiat Panda fue el coche para todos y para todas las ocasiones. A
   casi cuarenta años de su lanzamiento celebramos este modelo con cinco miniaturas
@@ -13,6 +13,7 @@ image: assets/uploads/Fiat_Panda_Yellow.jpg
 date: 2019-03-20T23:00:00.000+00:00
 comments: true
 featured: false
+author: ''
 
 ---
 ### Fiat Panda 4x4 Nº213 Paris-Dakar 1984
