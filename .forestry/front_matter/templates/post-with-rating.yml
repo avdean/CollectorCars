@@ -48,6 +48,7 @@ fields:
   default: 0
   required: true
   config:
-    min: ''
+    min: '0'
     max: '5'
     step: '10'
+    required: false
