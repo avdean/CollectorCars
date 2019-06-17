@@ -4,7 +4,7 @@ title: 'Alfasud: el coche salido de la fábrica de patatas'
 introduction: En 1971 Italia estaba en el pleno de los años de plomo y mientras la
   tensión política hacía tambalear el país en Pomigliano d'Arco (Nápoles) se ultimaba
   la primera fábrica meridional de Alfa Romeo.
-author: Matteo
+author: matteo
 categories:
 - Alfa Romeo
 tags:
