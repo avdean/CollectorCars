@@ -11,12 +11,19 @@ fields:
 - type: text
   name: title
   label: title
-- type: textarea
-  name: introduction
-  label: introduction
-- type: text
-  name: author
-  label: author
+- name: author
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: documents
+      section: data
+      file: _data/authors.yml
+      path: authors
+  label: Author
+  description: Choose your Author
 - type: list
   name: categories
   label: categories
