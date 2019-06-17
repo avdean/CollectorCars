@@ -13,7 +13,7 @@ categories:
 - " Firebird III"
 - " Firebird IV"
 tags: []
-image: "assets/uploads/Firebird_I.jpg"
+image: assets/uploads/Firebird_I.jpg
 date: 2019-04-15T22:00:00.000+00:00
 comments: true
 featured: true
@@ -29,7 +29,7 @@ Tratándose de un vehículo con turbina los ingenieros no tuvieron que montar pi
 
 <img src="https://images-na.ssl-images-amazon.com/images/I/41hypRQUT-L.jpg" class="responsive-img center">
 
-El test drive debería haberse llevado a cabo en Indianapolis y el piloto designado era **Mauri Rose** - campeón en las 500 Millas de 1941, 1947 y 1948 - que en 1953 había probado el Firebird en el circuito de prueba de General Motors. En aquella ocasión no pudo superar los 160 km/h por un problema de neumáticos y esperaba alcanzar velocidades más elevadas en el leyendario autódromo de Indiana. Después de haber testeado el monoplaza en el desierto de Arizona Mauri Rose dijo lo siguiente: “ Los chicos siempre me preguntan lo que se siente al conducir el Firebird. A pesar de sus 375 caballos es el auto más suave que he conducido. Firebird es un buen ejemplo del importante trabajo que realizan los estilistas y los ingenieros para hacer del mundo un lugar mejor para vivir tanto ahora como en el futuro”.
+El _test drive_ debería haberse llevado a cabo en Indianapolis y el piloto designado era **Mauri Rose** - campeón en las 500 Millas de 1941, 1947 y 1948 - que en 1953 había probado el Firebird en el circuito de prueba de General Motors. En aquella ocasión no pudo superar los 160 km/h por un problema de neumáticos y esperaba alcanzar velocidades más elevadas en el leyendario autódromo de Indiana. Después de haber testeado el monoplaza en el desierto de Arizona Mauri Rose dijo lo siguiente: “ Los chicos siempre me preguntan lo que se siente al conducir el Firebird. A pesar de sus 375 caballos es el auto más suave que he conducido. Firebird es un buen ejemplo del importante trabajo que realizan los estilistas y los ingenieros para hacer del mundo un lugar mejor para vivir tanto ahora como en el futuro”.
 
 ### La evolución del Firebird
 
