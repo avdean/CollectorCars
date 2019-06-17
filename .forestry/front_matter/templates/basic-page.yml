@@ -1,0 +1,19 @@
+---
+label: Basic Page
+hide_body: false
+fields:
+- type: text
+  name: layout
+  label: layout
+- type: text
+  name: title
+  label: title
+- type: text
+  name: permalink
+  label: permalink
+- type: file
+  name: image
+  label: image
+- type: boolean
+  name: comments
+  label: comments
