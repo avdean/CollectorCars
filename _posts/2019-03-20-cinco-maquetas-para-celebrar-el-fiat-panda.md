@@ -6,9 +6,9 @@ introduction: El Fiat Panda fue el coche para todos y para todas las ocasiones. 
   a escala 1:43 de Brumm. Empezamos con el Fiat Panda 4x4 que recorrió el desierto
   de Sahara en 1984.
 categories:
-- Fiat Panda
-tags:
 - Fiat
+tags:
+- Fiat Panda
 image: "/v1560769652/uploads/Fiat_Panda_Yellow.jpg"
 date: 2019-03-20T23:00:00.000+00:00
 comments: true
