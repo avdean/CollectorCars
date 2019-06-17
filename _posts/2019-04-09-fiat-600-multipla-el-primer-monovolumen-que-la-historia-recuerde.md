@@ -8,12 +8,14 @@ categories:
 - Fiat
 tags:
 - Fiat 600 Multipla
-image: "assets/uploads/Fiat 600 Multipla.jpg"
+image: "/v1560798264/uploads/Fiat%20600%20Multipla.jpg"
 date: 2019-04-09T22:00:00.000+00:00
 comments: true
 featured: true
 
 ---
+Lanzado en 1956, el 600 Multipla conquistó el país transalpino con su diseño simple y su gran versatilidad. Brumm y otros fabricantes nos proponen una amplia gama de miniaturas a escala 1:43.
+
 <img src="https://images-na.ssl-images-amazon.com/images/I/41Gfjq1r%2BRL.jpg" class="responsive-img center">
 
 El nacimiento del 600 Multipla se debe a las intuiciones del presidente de Fiat, Vittorio Valletta y del diseñador **Dante Giacosa**. Para relanzar la industria tras el final de la segunda guerra mundial hacía falta un modelo espacioso, asequible y agradable en las formas; una tarea nada sencilla por los proyectistas del grupo piamontés. Para abaratar costes Giacosa apostó por un vehículo a tracción posterior y adelantó los asientos anteriores por encima de las ruedas; gracias a estas soluciones consiguió crear un vehículo un poco más grande del Fiat 600 tradicional (3.540 mm contra los 3.215 mm de la berlina) pero capaz de transportar hasta seis personas. Los detalles más singulares eran la delantera sin capó y la configuración de las **puertas** que tenían una **apertura inversa** en la parte anterior y una apertura estándar en aquella posterior. Los clientes apreciaron la distribución racional del espacio interno que podía ser moldeado según las ocasiones creando, por ejemplo, una gran superficie abatiendo los asientos traseros.
