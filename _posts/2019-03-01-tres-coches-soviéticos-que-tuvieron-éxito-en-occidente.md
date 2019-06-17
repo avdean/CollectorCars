@@ -21,13 +21,11 @@ author: Matteo
 ---
 ### Moskvitch 412
 
-<img src="https://images-na.ssl-images-amazon.com/images/I/51J7K5VeUBL._SL1020_.jpg" class="responsive-img center">
+<img src="https://images-na.ssl-images-amazon.com/images/I/81Y0i%2BPx9lL.SL1500.jpg" class="responsive-img center">
 
 El primer ruso que cosechó un discreto éxito en Europa fue el Moskvitch 412, un sedán de cuatro puertas que apareció en los concesionarios de Reino Unido en 1967. El "hijo de Moscú" no sobresalía por su diseño pero bajo el capó rugía un propulsor de 1.5 litros derivado del M115 utilizado por el BMW 1500.
 
 Sus numerosas carencias no le hacían apto para las carreras pero **Tony Lanfranchi** no pensaba de la misma manera; el experimentado piloto descubrió una escapatoria en el reglamento del **British Saloon Car Championship** e inscribió su Moskvitch 412 en la competición.
-
-<img src="https://images-na.ssl-images-amazon.com/images/I/81Y0i%2BPx9lL._SL1500_.jpg" class="responsive-img center">
 
 Al final de la temporada, el sedán de fabricación soviética había ganado todas las carreras del segmento D dejando boquiabiertos a los aficionados del motor. Sin embargo, las victorias no modificaron los gustos de los británicos que siguieron comprando las versiones rancheras.
 
