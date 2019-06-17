@@ -2,7 +2,7 @@
 layout: page
 title: Contacto
 permalink: "/contacto"
-image: ""
+image: "/v1560801240/uploads/alonso-moreno-515811-unsplash.jpg"
 Contact_CTA: Contacto
 name_Label: Nombre
 telephone_Label: Telefone
@@ -11,6 +11,7 @@ query_Label: Pregunta
 message_Label: Tu Mensaje
 submit_CTA: Enviar
 comments: false
+
 ---
 <div class="container">
   <div class="row">

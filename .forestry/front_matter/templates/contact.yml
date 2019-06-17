@@ -40,3 +40,5 @@ fields:
 - type: boolean
   name: comments
   label: comments
+pages:
+- _pages/contact.md
