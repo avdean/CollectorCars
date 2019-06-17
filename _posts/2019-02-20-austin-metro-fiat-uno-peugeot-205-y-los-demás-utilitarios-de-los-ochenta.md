@@ -18,12 +18,14 @@ tags:
 - Peugeot 205
 - Renault 5
 - Volkswagen Polo
-image: assets/uploads/MG Metro 1300.jpg
+image: "/v1560798797/uploads/MG%20Metro%201300.jpg"
 date: 2019-02-20T23:00:00.000+00:00
 comments: true
 featured: false
 
 ---
+En los ochenta la industria del automóvil conoció su época de oro y los más beneficiados fueron los utilitarios. Pasión en miniatura ha reunido 10 maquetas para celebrar la época que vio nacer unos cuantos coches de culto.
+
 ### Austin Metro
 
 “Alguien podría haberse dado cuenta que en los últimos años Gran Bretaña ha sido invadida por italianos, alemanes, japoneses y franceses y ahora tenemos que contratacar”. Así empezaba el anuncio que presentaba el Austin Metro, el coche **elegido para remplazar un icono como el Mini**. En los segundos restantes, el narrador listaba las virtudes del hatchback antes de terminar el reclamo con el eslogan _A british car to beat the world_, **el coche británico para vencer al mundo**.
