@@ -10,9 +10,18 @@ fields:
 - type: text
   name: title
   label: title
-- type: text
-  name: author
-  label: author
+- name: author
+  type: select
+  default: matteo
+  config:
+    required: false
+    options: []
+    source:
+      type: documents
+      section: data
+      file: _data/authors.yml
+      path: authors
+  label: Author
 - type: list
   name: categories
   label: categories
