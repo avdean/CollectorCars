@@ -12,7 +12,7 @@ tags:
 - Lada Zhiguli
 - Moskvitch 412
 - Lada Niva
-image: ''
+image: "/v1560771944/uploads/Lada_Niva_1.jpg"
 date: 2019-03-01T23:00:00.000+00:00
 comments: true
 featured: false
@@ -41,7 +41,7 @@ El coche tenía una mecánica obsoleta, un diseño que se había quedado atascan
 
 <img src="https://images-na.ssl-images-amazon.com/images/I/51d6f-spy1L._SL1000_.jpg" class="responsive-img center">
 
-Además del Reino Unido, el heredero del Fiat 124 fue vendido en el bloque comunista pero también en Canadá, Argentina, Brasil, Francia, Portugal, España, Alemania Occidental y Nueva Zelanda. Probablemente la historia mas curiosa es la que involucra este último país dado que **los Riva de la nación isleña llegaron con un trueque**: automóviles por mantequilla y carne de cordero. Y si esto os sorprende en 1993 los rusos subieron la apuesta intentando intercambiar la mantequilla neozelandesa con tanques, dos aviones de caza y un submarino nuclear.
+Además del Reino Unido, el heredero del Fiat 124 fue vendido en el bloque comunista pero también en Canadá, Argentina, Brasil, Francia, Portugal, España, Alemania Occidental y Nueva Zelanda. Probablemente la historia mas curiosa es la que involucra este último país dado que **los Riva de la nación isleña llegaron con un trueque**: automóviles por mantequilla y carne de cordero. Y si esto os sorprende en 1993 [los rusos subieron la apuesta]() intentando intercambiar la mantequilla neozelandesa con tanques, dos aviones de caza y un submarino nuclear.
 
 ### Lada Niva
 
