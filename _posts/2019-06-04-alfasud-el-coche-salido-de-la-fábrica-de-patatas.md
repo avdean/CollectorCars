@@ -9,8 +9,8 @@ categories:
 - Alfa Romeo
 tags:
 - Alfa Romeo Alfasud
-image: "assets/uploads/Alfasud.jpg"
-date: 2019-06-04 22:00:00 +0000
+image: assets/uploads/Alfasud.jpg
+date: 2019-06-04T22:00:00.000+00:00
 comments: true
 featured: true
 
@@ -19,15 +19,15 @@ featured: true
 
 <img src="https://images-na.ssl-images-amazon.com/images/I/61SWUT4zPuL._SL1000_.jpg" class="responsive-img center">
 
-El vehículo diseñado por **Rudolf Hruska** y **Giorgietto Giugiaro** tuvo una gestación de las más complicadas. A nivel mecánico, el dúo formado por el ingeniero austriaco y el diseñador italiano hizo un buen trabajo, el verdadero problema eran las luchas políticas que inflamaban tanto los obreros como los políticos locales. El 30 de octubre de 1971 el Presidente del Consejo Emilio Colombo inauguró el polígono industrial en una atmósfera de las más pesadas; su mitin institucional fue seguido por la apasionada charla de un joven obrero que no dudó en definir la fábrica de Pomigliano **"una catedral en un cementerio de pequeñas y medianas empresas"**. En este clima de desconfianza se ultimaron las obras pendientes y un año después empezó la producción del vehículo.
+El vehículo diseñado por **Rudolf Hruska** y **Giorgietto Giugiaro** tuvo una gestación de las más complicadas. A nivel mecánico el dúo formado por el ingeniero austriaco y el diseñador italiano hizo un buen trabajo, el verdadero problema eran las luchas políticas que envenenaban la atmósfera en Pomigliano d'Arco. El 30 de octubre de 1971 el Presidente del Consejo Emilio Colombo inauguró el polígono industrial en una atmósfera de las más pesadas; su mitin institucional fue seguido por la apasionada charla de un joven obrero que no dudó en definir la fábrica **"una catedral en un cementerio de pequeñas y medianas empresas"**. En este clima de desconfianza se ultimaron las obras pendientes y un año después empezó la producción del Alfasud.
 
 <img src="https://images-na.ssl-images-amazon.com/images/I/71NIx5rJccL._SL1075_.jpg" class="responsive-img center">
 
-La maqueta a escala 1:18 de **KK-Scale** reproduce uno de los primeros Alfasud fabricados en la provincia napolitana; se trataba de una berlina de dos volúmenes nacida para competir con el Citroën GS y por lo tanto montaba un motor boxter de 1186 cc que le permitía superar los 150 km/h. Según las pruebas de la época, la berlina de Alfa Romeo destacaba por la comodidad de los asientos, las buenas prestaciones, la amplitud del habitáculo y la estabilidad en la carretera; los **puntos débiles** eran los **frenos** – un artículo publicado en la revista _L'automobile_ en 1973 sostenía que "excluyen de la conducción a todos aquellos que no cuentan con una musculatura fuera de lo normal" – y la **calidad de los interiores** donde abundaban los plásticos mientras que el reloj y el tacómetro brillaban por su ausencia.
+La maqueta a escala 1:18 de **KK-Scale** reproduce uno de los primeros Alfasud fabricados en la provincia napolitana; se trataba de una berlina de dos volúmenes nacida para competir con el Citroën GS y por lo tanto montaba un motor boxter de 1186 cc que le permitía superar los 150 km/h. Según las pruebas de la época, la berlina de Alfa Romeo destacaba por la comodidad de los asientos, las buenas prestaciones, la amplitud del habitáculo y la estabilidad en la carretera; los **puntos débiles** eran los **frenos** – un artículo publicado en la revista _L'automobile_ en 1973 decía que "excluyen de la conducción a todos aquellos que no cuentan con una musculatura fuera de lo normal" – y la **calidad de los interiores** donde abundaban los plásticos mientras que el reloj y el tacómetro brillaban por su ausencia.
 
 ### Latas de Coca Cola y tornillos sueltos, el boicot de los obreros
 
-Lamentablemente la escasa calidad de los materiales no era el único problema del Alfasud. El crecimiento de partidos de extrema izquierda como _Potere al Popolo_ y _Lotta Continua_ en la fábrica de Pomigliano envenenó el ambiente laboral; **huelgas y sabotajes estaban a la orden del día** y no era raro encontrar trozos de latas entre las componentes, tornillos flojos y mucha herrumbre. La industria nacida para relanzar la economía del sur se había convertido en un entidad ingobernable y a los errores de los trabajadores se sumaron aquellos de la clase dirigente. Los políticos ejercían una presión continua para ganar votos; en la primera mitad de los setenta el exponente de la Democrazia Cristiana **Ciriaco De Mita** maniobró para abrir una fábrica cerca de Avellino – su provincia de nacimiento – cosa que consiguió en el 1980 con la construcción del polígono industrial de Pratola Serra. Mientras tanto los sindicatos denunciaban la falta de un plan industrial con miras al futuro y la empresa se preparaba a lanzar una nueva versión del Alfasud.
+Lamentablemente la escasa calidad de los materiales no era el único problema del Alfasud. El crecimiento de partidos de extrema izquierda como _Potere al Popolo_ y _Lotta Continua_ en la fábrica de Pomigliano envenenó el ambiente laboral; **huelgas y sabotajes estaban a la orden del día** y no era raro encontrar trozos de latas entre las componentes, tornillos flojos y mucha herrumbre. La industria nacida para relanzar la economía del sur se había convertido en un entidad ingobernable y a los errores de los trabajadores se sumaron pronto aquellos de la clase dirigente. Los políticos ejercían una presión continua para ganar votos; en la primera mitad de los setenta el exponente de la Democrazia Cristiana **Ciriaco De Mita** maniobró para abrir una fábrica cerca de Avellino – su provincia de nacimiento – cosa que consiguió en el 1980 con la construcción del polígono industrial de Pratola Serra. Mientras tanto los sindicatos denunciaban la falta de un plan industrial con miras al futuro y la empresa se preparaba a lanzar una nueva versión del Alfasud.
 
 ### 1976, el año del Alfasud Sprint
 
