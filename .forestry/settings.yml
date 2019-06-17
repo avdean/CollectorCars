@@ -16,7 +16,11 @@ sections:
   match: "**/*"
 - type: jekyll-posts
   label: Posts
-  create: all
+  create: documents
+  templates:
+  - post
+  - post-with-rating
+  - post-no-featured-image
 upload_dir: uploads
 public_path: ''
 front_matter_path: "/uploads"
