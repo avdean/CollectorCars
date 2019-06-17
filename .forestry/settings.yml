@@ -18,6 +18,7 @@ sections:
   label: Posts
   create: documents
   templates:
+  - post-no-author
   - post
   - post-with-rating
   - post-no-featured-image
