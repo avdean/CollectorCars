@@ -1,6 +1,7 @@
 ---
 label: Post with Rating
 hide_body: false
+display_field: title
 fields:
 - type: text
   name: layout
@@ -29,3 +30,13 @@ fields:
 - type: boolean
   name: featured
   label: featured
+- name: rating
+  type: number
+  label: Rating
+  description: Adds Star Rating (max 1-5)
+  default: 0
+  required: true
+  config:
+    min: ''
+    max: '5'
+    step: '10'
