@@ -32,7 +32,7 @@ Durante el régimen de Batista los americanos viajaban a La Habana para disfruta
 
 Antes de la victoria de los barbudos, Michael Corleone aterriza en Cuba para participar en una cumbre mafiosa y en el aeropuerto es recibido por un **Mercury Montclair** de los cincuenta. Para llegar al hotel, Michael y sus acompañantes cruzan La Habana en un sedán de 1957, la versión cubierta del coche que aparece en las fotos.
 
-![](https://images-na.ssl-images-amazon.com/images/I/510HbUVMJhL.jpg)
+<img src="https://images-na.ssl-images-amazon.com/images/I/510HbUVMJhL.jpg" class="responsive-img center">
 
 La miniatura de SunStar reproduce el Mercury Montclair Convertible de 1956, uno de los modelos más exclusivos de la posguerra. Su precio era de **2.900 $** – más o menos 27.000 $ actuales – y podía aumentar añadiendo los lavaparabrisas, una radio AM, un reloj eléctrico o un calentador.
 
@@ -56,7 +56,7 @@ En 1955 el departamento de marketing de Ford contactó con el Premio Pulitzer de
 
 Trás un largo intercambio de cartas, Marianne Moore envió un listado de nombres que podían ajustarse al _brief_ pero ninguno fue tomado en serio; esto sí, las **proposiciones** eran **bizarras** e incluían apodos como Pluma Piluma, The Intelligent Whale (la ballena inteligente), Mongoose Civique (mangosta cívica), The Silver Sword (la espada de plata), Regna Racer, Pastelogram o Turcotiga.
 
-<img src="https://images-na.ssl-images-amazon.com/images/I/41g%2BkgDUKLL._SX355_.jpg" class="responsive-img center">
+<img src="https://images-na.ssl-images-amazon.com/images/I/61iV%2Bw7lQRL._SL1250_.jpg" class="responsive-img center">
 
 Finalmente los creativos desestimaron las sugerencias y bautizaron el automóvil como **Edsel**, el nombre del único hijo de Henry Ford. En la imagen podéis ver la reproducción de uno de los primeros **Ford Edsel Citation** salidos de las fábricas de Michigan. El coche fue lanzado en 1958 convirtiéndose desde los primeros meses en un auténtico **flop comercial**. A finales de 1959 los directivos de Ford decidieron cerrar el telón después de haber dilapidado 350 millones de dólares. Algunos de estos ejemplares llegaron a Cuba y se pueden alquilar en diversas localidades de la isla.
 
