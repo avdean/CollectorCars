@@ -13,12 +13,14 @@ categories:
 - " Firebird III"
 - " Firebird IV"
 tags: []
-image: assets/uploads/Firebird_I.jpg
+image: "/v1560768676/uploads/Firebird_I.jpg"
 date: 2019-04-15T22:00:00.000+00:00
 comments: true
 featured: true
 
 ---
+En el 1954 Ernest Hemingway ganaba el Premio Nobel con El viejo y el mar, Bill Haley estrenaba el primer sencillo de rock and roll y los automovilistas americanos empezaban a enamorarse de los deportivos. La primera generación del Chevrolet Corvette había salido un año antes pero mientras los mecánicos asemblaban el icónico  modelo en las fábricas de Flint y St. Louis, en el desierto de Arizona se testaba  el Firebird XP-21, el primer automóvil con turbina de gas.
+
 <img src="https://images-na.ssl-images-amazon.com/images/I/31hVFneC2ML.jpg" class="responsive-img center">
 
 A principio de los cincuenta el vicepresidente de General Motors, **Harley J. Earl**, empezó a trabajar en el proyecto de un coche movido por una turbina de gas. El prototipo montaba un propulsor derivado del **Douglas F4D Skyray** – el primer caza capaz de superar la velocidad Mach 1 – y una carrocería en plástico reforzado por vidrio, un material conocido tanto por su ligereza como por su buen comportamiento como aislante acústico. Aún así el Firebird XP-21 era particularmente ruidoso y a este inconveniente se tenía que añadir el consumo excesivo de combustible y la elevada temperatura de los gases de escape.
