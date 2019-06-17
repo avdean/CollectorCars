@@ -13,12 +13,12 @@ featured: true
 
 ---
 En 1971 Italia estaba en el pleno de los años de plomo y mientras la tensión política hacía tambalear el país en Pomigliano d'Arco (Nápoles) se ultimaba la primera fábrica meridional de Alfa Romeo.
-  
+
 ### Los difíciles comienzos del Alfasud
 
 <img src="https://images-na.ssl-images-amazon.com/images/I/61SWUT4zPuL._SL1000_.jpg" class="responsive-img center">
 
-El vehículo diseñado por **Rudolf Hruska** y **Giorgietto Giugiaro** tuvo una gestación de las más complicadas. A nivel mecánico el dúo formado por el ingeniero austriaco y el diseñador italiano hizo un buen trabajo, el verdadero problema era la tensión política que envenenaba la atmósfera en los meses previos a la apertura. El 30 de octubre de 1971 el Presidente del Consejo Emilio Colombo inauguró el polígono industrial en una atmósfera de las más pesadas; su mitin institucional fue seguido por la apasionada charla de un joven obrero que no dudó en definir la fábrica **"una catedral en un cementerio de pequeñas y medianas empresas"**. En este clima de desconfianza se ultimaron las obras pendientes y un año después empezó la producción del Alfasud. 
+El vehículo diseñado por **Rudolf Hruska** y **Giorgietto Giugiaro** tuvo una gestación de las más complicadas. A nivel mecánico el dúo formado por el ingeniero austriaco y el diseñador italiano hizo un buen trabajo, el verdadero problema era la tensión política que envenenaba la atmósfera en los meses previos a la apertura. El 30 de octubre de 1971 el Presidente del Consejo Emilio Colombo inauguró el polígono industrial en una atmósfera de las más pesadas; su mitin institucional fue seguido por la apasionada charla de un joven obrero que no dudó en definir la fábrica **"una catedral en un cementerio de pequeñas y medianas empresas"**. En este clima de desconfianza se ultimaron las obras pendientes y un año después empezó la producción del Alfasud.
 
 <img src="https://images-na.ssl-images-amazon.com/images/I/71NIx5rJccL._SL1075_.jpg" class="responsive-img center">
 
