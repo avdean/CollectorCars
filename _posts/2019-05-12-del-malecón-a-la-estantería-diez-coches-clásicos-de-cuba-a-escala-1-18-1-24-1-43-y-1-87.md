@@ -18,12 +18,14 @@ tags:
 - Ford Model T
 - Ford Model A
 - Buick Electra
-image: assets/uploads/Ford Fairlane.jpg
+image: "/v1560769037/uploads/Ford_Fairlane.jpg"
 date: 2019-05-12T22:00:00.000+00:00
 comments: true
 featured: true
 
 ---
+Las calles de Cuba son un auténtico museo del automóvil. En el cemento de la isla circulan maravillas como el Chevrolet Bel Air o el Ford Fairlane que han sobrevivido al paso del tiempo gracias a las artimañas más ingeniosas.
+
 ### Cuba antes de Fidel
 
 Durante el régimen de Batista los americanos viajaban a La Habana para disfrutar de las playas, de los puros, del ron y sobre todo de los casinos. Tras su llegada al poder el dictador relajó las normas que regulaban el juego y prometió licencias a los que invertían dinero en la isla; en poco tiempo los dólares de la mafia inundaron Cuba y jefes como Meyer Lansky y **Lucky Luciano** establecieron contactos directos con Batista. Esta realidad queda retratada en la segunda entrega de **El Padrino** que nos enseña los últimos días de su reinado y la huida de burgueses y extranjeros ahuyentados por la victoria socialista.
