@@ -18,8 +18,8 @@ tags:
 - Peugeot 205
 - Renault 5
 - Volkswagen Polo
-image: "assets/uploads/MG Metro 1300.jpg"
-date: 2019-02-20 23:00:00 +0000
+image: assets/uploads/MG Metro 1300.jpg
+date: 2019-02-20T23:00:00.000+00:00
 comments: true
 featured: false
 
