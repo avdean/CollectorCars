@@ -9,7 +9,7 @@ categories:
 - Alfa Romeo
 tags:
 - Alfa Romeo Alfasud
-image: assets/uploads/Alfasud.jpg
+image: "/v1560768401/uploads/Alfasud.jpg"
 date: 2019-06-04T22:00:00.000+00:00
 comments: true
 featured: true
