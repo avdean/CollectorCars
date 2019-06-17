@@ -4,7 +4,7 @@ title: '1975/1993: Alejandro De Tomaso al mando de Maserati'
 introduction: Pasión en miniatura presenta los modelos más icónicos de la era De Tomaso,
   piloto bonaerense que huyó de la Argentina peronista para convertirse en un empresario
   de éxito en Italia
-author: matteo
+author: ''
 categories:
 - Maserati
 tags:
