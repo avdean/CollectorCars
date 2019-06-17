@@ -9,7 +9,7 @@ categories:
 - Fiat Panda
 tags:
 - Fiat
-image: assets/uploads/Fiat_Panda_Yellow.jpg
+image: "/v1560769652/uploads/Fiat_Panda_Yellow.jpg"
 date: 2019-03-20T23:00:00.000+00:00
 comments: true
 featured: false
