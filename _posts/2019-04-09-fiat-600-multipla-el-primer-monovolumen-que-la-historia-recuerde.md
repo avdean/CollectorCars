@@ -1,9 +1,6 @@
 ---
 layout: post
 title: 'Fiat 600 Multipla: el primer monovolumen que la historia recuerde'
-introduction: Lanzado en 1956, el 600 Multipla conquistó el país transalpino con su
-  diseño simple y su gran versatilidad. Brumm y otros fabricantes nos proponen una
-  amplia gama de miniaturas a escala 1:43.
 categories:
 - Fiat
 tags:

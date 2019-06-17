@@ -1,12 +1,8 @@
 ---
 layout: post
 title: Austin Metro, Fiat Uno, Peugeot 205 y los demás utilitarios de los ochenta
-introduction: En los ochenta la industria del automóvil conoció su época de oro y
-  los más beneficiados fueron los utilitarios. Pasión en miniatura ha reunido 10 maquetas
-  para celebrar la época que vio nacer unos cuantos coches de culto.
 categories:
 - coches años ochenta
-author: matteo
 tags:
 - Austin Metro
 - Autobianchi Y10

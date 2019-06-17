@@ -1,10 +1,6 @@
 ---
 layout: post
 title: 'Renault Espace: el coche que puso de moda los Multi Purpose Vehicles'
-introduction: El monovolumen hizo su debut en los ochenta pero el proyecto que le
-  inspiró es de una década anterior. El Kar-a-sutra del italiano Mario Bellini sentó
-  las bases por una nueva gama de vehículos pensados para disfrutar y no solo para
-  desplazarse.
 categories:
 - Renault
 tags:

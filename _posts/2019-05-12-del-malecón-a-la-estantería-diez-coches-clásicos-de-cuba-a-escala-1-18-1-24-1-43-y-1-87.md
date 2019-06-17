@@ -2,9 +2,6 @@
 layout: post
 title: Del Malecón a la estantería, diez coches clásicos de Cuba a escala 1:18, 1:24,
   1:43 y 1:87
-introduction: 'Las calles de Cuba son un auténtico museo del automóvil. En el cemento
-  de la isla circulan maravillas como el Chevrolet Bel Air o el Ford Fairlane que
-  han sobrevivido al paso del tiempo gracias a las artimañas más ingeniosas.  '
 categories:
 - coches clásicos de Cuba
 tags:

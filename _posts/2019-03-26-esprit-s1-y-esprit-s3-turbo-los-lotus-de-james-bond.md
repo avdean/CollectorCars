@@ -1,10 +1,6 @@
 ---
 layout: post
 title: Esprit S1 y Esprit S3 Turbo, los Lotus de James Bond
-introduction: Aston Martin y James Bond se conocieron en <em>Goldfinger</em>, consolidaron
-  la relación en <em>Thunderball</em> y estarán juntos también en <em>Shatterhand</em>,
-  la próxima entrega de la saga. Sin embargo, en 1977 el agente secreto empezó una
-  relación clandestina con una dama de nombre Esprit.
 categories:
 - Lotus
 tags:

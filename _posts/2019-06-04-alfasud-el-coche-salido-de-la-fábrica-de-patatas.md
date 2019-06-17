@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Alfasud: el coche salido de la fábrica de patatas'
-author: matteo
 categories:
 - Alfa Romeo
 tags:

@@ -1,10 +1,6 @@
 ---
 layout: post
 title: Cinco maquetas para celebrar el Fiat Panda
-introduction: El Fiat Panda fue el coche para todos y para todas las ocasiones. A
-  casi cuarenta años de su lanzamiento celebramos este modelo con cinco miniaturas
-  a escala 1:43 de Brumm. Empezamos con el Fiat Panda 4x4 que recorrió el desierto
-  de Sahara en 1984.
 categories:
 - Fiat
 tags:

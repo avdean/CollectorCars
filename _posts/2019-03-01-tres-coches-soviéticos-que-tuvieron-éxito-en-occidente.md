@@ -1,10 +1,6 @@
 ---
 layout: post
 title: Tres coches soviéticos que tuvieron éxito en occidente
-introduction: Los automóviles rusos no destacaban por sus diseños pero ganaron nichos
-  de mercado gracias a sus precios competitivos. Pasión en miniatura ha reunido los
-  modelos más exitosos de la Unión Sovietica, piezas históricas que no pueden faltar
-  en las colecciones de todos los apasionados
 categories:
 - coches sovieticos
 tags:
