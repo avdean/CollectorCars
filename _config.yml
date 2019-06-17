@@ -5,7 +5,7 @@ disqus: ''
 # mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 include: ["_pages"]
 permalink: /:title/
-cloudinary_base_url: "cloudinary://446585723762964:NrG0mA3KUjRaMdhjcptinl6I5YA@pasionenminiatura"
+cloudinary_base_url: " http://res.cloudinary.com/pasionenminiatura"
 
 # Plugins
 plugins:
