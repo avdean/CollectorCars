@@ -1,0 +1,40 @@
+---
+label: Contact
+hide_body: false
+fields:
+- type: text
+  name: layout
+  label: layout
+- type: text
+  name: title
+  label: title
+- type: text
+  name: permalink
+  label: permalink
+- type: text
+  name: image
+  label: image
+- type: text
+  name: Contact_CTA
+  label: Contact_CTA
+- type: text
+  name: name_Label
+  label: name_Label
+- type: text
+  name: telephone_Label
+  label: telephone_Label
+- type: text
+  name: email_Label
+  label: email_Label
+- type: text
+  name: query_Label
+  label: query_Label
+- type: text
+  name: message_Label
+  label: message_Label
+- type: text
+  name: submit_CTA
+  label: submit_CTA
+- type: boolean
+  name: comments
+  label: comments
