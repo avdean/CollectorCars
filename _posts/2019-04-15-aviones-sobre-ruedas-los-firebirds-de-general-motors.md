@@ -2,11 +2,12 @@
 layout: post
 title: Aviones sobre ruedas, los Firebirds de General Motors
 categories:
+- General Motors
+tags:
+- Firebird IV
+- Firebird III
+- Firebird II
 - Firebird I
-- " Firebird II"
-- " Firebird III"
-- " Firebird IV"
-tags: []
 image: "/v1560768676/uploads/Firebird_I.jpg"
 date: 2019-04-15T22:00:00.000+00:00
 comments: true
