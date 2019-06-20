@@ -15,6 +15,7 @@ tags:
 date: 2019-06-19 22:00:00 +0000
 comments: true
 featured: true
+imageInPost: false
 image: "/v1561048889/uploads/GAZ%2066.jpg"
 
 ---
