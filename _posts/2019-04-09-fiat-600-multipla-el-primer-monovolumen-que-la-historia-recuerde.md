@@ -31,7 +31,7 @@ Además de la versión taxi, Brumm puso a la venta coches a escala del Fiat 600 
 
 ![](/v1561050637/uploads/Fiat_600_Multipla_Mercury_1.jpg)
 
-Otra miniatura digna de mención es la de **Mercury**, fabricante italiano activo entre los años cincuenta y los setenta. Hoy desaparecida, la firma del país transalpino se distinguía por su linea esencial y por la producción de numerosos modelos habituales en la época como el Fiat 500 C o el Autobianchi Bianchina. Las particularidades del Fiat 600 Multipla producido por Mercury son esencialmente dos: la falta de ventanillas y la carrocería realizada en un único trozo y conectada con el fondo del vehículo a través de dos roblones. Si os habéis topado con una maqueta del 600 Multipla sin asientos estáis delante de una **rara miniatura de los cincuenta**.
+Otra miniatura digna de mención es la de **Mercury**, fabricante italiano activo entre los años cincuenta y los setenta. Hoy desaparecida, la firma del país transalpino se distinguía por su linea esencial y por la producción de numerosos modelos habituales en la época como el Fiat 500 C o el [Autobianchi Bianchina](https://www.amazon.es/MODEL-KS43022021-AUTOBIANCHI-BIANCHINA-BERLINA/dp/B01MR6WSYS/ref=sr_1_7?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=bianchina&qid=1561050807&s=toys&sr=1-7 "Autobianchi Bianchina 1:43 Kess Models"). Las particularidades del Fiat 600 Multipla producido por Mercury son esencialmente dos: la falta de ventanillas y la carrocería realizada en un único trozo y conectada con el fondo del vehículo a través de dos roblones. Si os habéis topado con una maqueta del 600 Multipla sin asientos estáis delante de una **rara miniatura de los cincuenta**.
 
 ![](/v1561050774/uploads/Fiat_600_Multipla_Mercury_2.jpg)
 
