@@ -8,7 +8,7 @@ tags:
 image: "/v1560798264/uploads/Fiat%20600%20Multipla.jpg"
 date: 2019-04-09T22:00:00.000+00:00
 comments: true
-featured: true
+featured: false
 
 ---
 Lanzado en 1956, el 600 Multipla conquistó el país transalpino con su diseño simple y su gran versatilidad. Brumm y otros fabricantes nos proponen una amplia gama de miniaturas a escala 1:43.
