@@ -29,14 +29,14 @@ Entre las varias ofertas que encontramos online podemos destacar la Brumm que ha
 
 Además de la versión taxi, Brumm puso a la venta coches a escala del Fiat 600 Multipla con decoraciones publicitarias de Abarth, [Coca Cola](https://www.amazon.es/BRUMM-BM0482-FIAT-MULTIPLA-OLIMPIADI/dp/B007IZ2C4M/ref=sr_1_19?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=fiat+600+multipla&qid=1554904573&s=toys&sr=1-19 "Fiat 600 Multipla Coca Cola"), Olio Fiat, Pirelli, etc. También existen unos **dioramas** que representan el monovolumen en la cadena de montaje, enfrente de la Catedral de Milán o a poca distancia del Monumento a Víctor Manuel II en Roma.
 
-<img src="/uploads/Fiat_600_Multipla_Mercury_1.jpg" class="responsive-img center">
+![](/v1561050637/uploads/Fiat_600_Multipla_Mercury_1.jpg)
 
 Otra miniatura digna de mención es la de **Mercury**, fabricante italiano activo entre los años cincuenta y los setenta. Hoy desaparecida, la firma del país transalpino se distinguía por su linea esencial y por la producción de numerosos modelos habituales en la época como el Fiat 500 C o el Autobianchi Bianchina. Las particularidades del Fiat 600 Multipla producido por Mercury son esencialmente dos: la falta de ventanillas y la carrocería realizada en un único trozo y conectada con el fondo del vehículo a través de dos roblones. Si os habéis topado con una maqueta del 600 Multipla sin asientos estáis delante de una **rara miniatura de los cincuenta**.
 
-<img src="/uploads/Fiat_600_Multipla_Mercury_2.jpg" class="responsive-img center">
+![](/v1561050774/uploads/Fiat_600_Multipla_Mercury_2.jpg)
 
 ## Adiós, 600 Multipla
 
-En 1967 el último ejemplar del monovolumen salió de la fábrica de Autobianchi en Desio (Monza); después de 11 años la criatura de Giacosa iba a jubilarse ya que su puesto había sido tomado por el **600T**, un vehículo industrial derivado del 600 Multipla y lanzado en el mercado en el 1962. El anuncio de la nueva furgoneta recitaba la siguiente frase “sigo siendo el mismo coche, un coche Fiat de mecánica impecable y segura” casi para asegurar a los clientes de que se trataba de un cambio indoloro. El 600T sería pronto remplazado por los Fiat 850T y Fiat 850 Familiare que abandonar la mecánica del Multipla para adoptar aquella del 850.
+En 1967 el último ejemplar del monovolumen salió de la fábrica de Autobianchi en Desio (Monza); después de 11 años la criatura de Giacosa iba a jubilarse ya que su puesto había sido tomado por el **600T**, un vehículo industrial derivado del 600 Multipla y lanzado en el mercado en el 1962. El anuncio de la nueva furgoneta recitaba la siguiente frase “sigo siendo el mismo coche, un coche Fiat de mecánica impecable y segura” casi para asegurar a los clientes de que se trataba de un cambio indoloro. El 600T sería pronto remplazado por los Fiat 850T y Fiat 850 Familiare que abandonaron la mecánica del Multipla para adoptar aquella del 850.
 
 <img src="https://images-na.ssl-images-amazon.com/images/I/61pl9QEB%2BjL._SL1250_.jpg" class="responsive-img center">
