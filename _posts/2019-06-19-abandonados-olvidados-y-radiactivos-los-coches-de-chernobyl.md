@@ -18,7 +18,7 @@ featured: true
 image: "/v1561048889/uploads/GAZ%2066.jpg"
 
 ---
-La serie de **HBO** ha reconstruido el accidente nuclear más famoso de la historia y al mismo tiempo nos ha enseñado un cuadro de la vida en **Pripyat** durante el comunismo. Para recrear la atmósfera la producción alquiló viejos coches soviéticos como el GAZ 24 Volga o el Moskvitch 412; después del rodaje los vehículos han vuelto a sus propietarios mientras que algunos de sus hermanos se han quedado para siempre en los alrededores de la central. En la zona prohibida reposan centenares de vehículos contaminados pero **¿que sabemos realmente del parque automovilístico de Pripyat?**
+La serie de **HBO** ha reconstruido el accidente nuclear más famoso de la historia y al mismo tiempo nos ha enseñado un cuadro de la vida en **Pripyat** durante el comunismo. Para recrear la atmósfera la producción alquiló viejos [coches soviéticos]( "https://www.pasionenminiatura.com/tres-coches-sovi%C3%A9ticos-que-tuvieron-%C3%A9xito-en-occidente/") como el GAZ 24 Volga o el Moskvitch 412; después del rodaje los vehículos han vuelto a sus propietarios mientras que algunos de sus hermanos se han quedado para siempre en los alrededores de la central. En la zona prohibida reposan centenares de vehículos contaminados pero **¿que sabemos realmente del parque automovilístico de Pripyat?**
 
 ### Chernobyl antes de la catástrofe: ¿que coche podía permitirse un directivo de la central?
 
