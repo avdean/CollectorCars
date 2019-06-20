@@ -29,15 +29,11 @@ Durante el régimen de Batista los americanos viajaban a La Habana para disfruta
 
 <img src="https://images-na.ssl-images-amazon.com/images/I/51MLUmL3XeL._SL1000_.jpg" class="responsive-img center">
 
-Antes de la victoria de los barbudos, Michael Corleone aterriza en Cuba para participar en una cumbre mafiosa y en el aeropuerto es recibido por un **Mercury Montclair** de los cincuenta. Para llegar al hotel, Michael y sus acompañantes cruzan La Habana en un sedán de 1957, la versión cubierta del coche que aparece en las fotos.
-
-<img src="https://images-na.ssl-images-amazon.com/images/I/510HbUVMJhL.jpg" class="responsive-img center">
-
-La miniatura de SunStar reproduce el Mercury Montclair Convertible de 1956, uno de los modelos más exclusivos de la posguerra. Su precio era de **2.900 $** – más o menos 27.000 $ actuales – y podía aumentar añadiendo los lavaparabrisas, una radio AM, un reloj eléctrico o un calentador.
+Antes de la victoria de los barbudos, Michael Corleone aterriza en Cuba para participar en una cumbre mafiosa y en el aeropuerto es recibido por un **Mercury Montclair** de los cincuenta. Para llegar al hotel, Michael y sus acompañantes cruzan La Habana en un sedán de 1957, la versión cubierta del coche que aparece en las fotos. La miniatura de SunStar reproduce el Mercury Montclair Convertible de 1956, uno de los modelos más exclusivos de la posguerra. Su precio era de **2.900 $** – más o menos 27.000 $ actuales – y podía aumentar añadiendo los lavaparabrisas, una radio AM, un reloj eléctrico o un calentador.
 
 <img src="https://images-na.ssl-images-amazon.com/images/I/51kHJT9objL._SL1000_.jpg" class="responsive-img center">
 
-También existía un sedán con techo panorámico llamado Sun Valley que pese a sus características no consiguió hacerse un hueco en el mercado. La superficie en plexiglás actuaba como una lupa y los directivos intentaron solucionar el problema coloreandola de verde; la medida surtió sus efectos – según el diseñador L. David Ash el 60% de los rayos de calor y el 72% del resplandor estaban bloqueados por el tinte – pero pocos clientes apreciaron la luz verdosa del habitáculo. Después de dos años el **Montclair Sun Valley** dejó de producirse y actualmente es uno de los más cotizados de la gama Mercury.
+También existía un sedán con techo panorámico llamado Sun Valley que pese a sus características no consiguió hacerse un hueco en el mercado. La superficie en plexiglás actuaba como una lupa y los directivos intentaron solucionar el problema coloreándola de verde; la medida surtió sus efectos – según el diseñador L. David Ash el 60% de los rayos de calor y el 72% del resplandor estaban bloqueados por el tinte – pero pocos clientes apreciaron la luz verdosa del habitáculo. Después de dos años el **Montclair Sun Valley** dejó de producirse y actualmente es uno de los más cotizados de la gama Mercury.
 
 ### Chevrolet Bel Air, el rey de los almendrones
 
@@ -47,7 +43,7 @@ En Cuba los automóviles de los cincuenta son apodados como almendrones. Según 
 
 <img src="https://images-na.ssl-images-amazon.com/images/I/41RWrNSZ%2BFL.jpg" class="responsive-img center">
 
-La primera edición data del 1950 mientras que la segunda apareció en 1955 y podía contar con un motor más potente, bandas cromadas en el techo, guardabarros cromados y una parrilla delantera que guiñaba el ojo al contemporáneo Ferrari 250 GT. La imagen retrata el Chevrolet Bel Air Convertible de **Vitesse – Sunstar** en su típica configuración bicolor, en este caso los tonos escogidos son el blanco y el amarillo **Harvest Gold**.
+La primera edición data del 1950 mientras que la segunda apareció en 1955 y podía contar con un motor más potente, bandas cromadas en el techo, guardabarros cromados y una parrilla delantera que guiñaba el ojo al contemporáneo [Ferrari 250 GT](https://www.amazon.es/BB-Ferrari-250-Berlinetta-Passo/dp/B07CBBTRX4/ref=sr_1_4?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=Ferrari+250+GT&qid=1561051487&s=toys&sr=1-4 "Ferrari 250 GT 1:24 Bburago"). La imagen retrata el Chevrolet Bel Air Convertible de **Vitesse – Sunstar** en su típica configuración bicolor, en este caso los tonos escogidos son el blanco y el amarillo **Harvest Gold**.
 
 ### El patito feo de Ford
 
@@ -79,11 +75,9 @@ El Electra es un _full size_ de gama alta lanzado por Buick en 1959, el año de 
 
 El Buick Electra 225 Convertible de 1959 – aquí en la espléndida miniatura a escala 1:18 de **Lucky Die Cast** – montaba un V8 de 325 caballos que le permitía alcanzar los **193 km/h**. El consumo medio era de 23.6 litros cada 100 km y para llegar a los 100 km/h había que esperar más o menos 10 segundos. El _full size_ montaba un cambio automático de 2 velocidades y podía ser equipado con ventanas eléctricas, aire acondicionado y radio. Los interiores en cuero blanco y rojo resaltan la carrocería color **Tampico Red** que culmina con dos aletas a lo Batmobile.
 
-<img src="https://images-na.ssl-images-amazon.com/images/I/6117kXWORsL._SL1000_.jpg" class="responsive-img center">
+<img src="https://images-na.ssl-images-amazon.com/images/I/61cK1HVnKKL._SL1000_.jpg" class="responsive-img center">
 
 En el 2015 el concesionario de automóviles Moto Exotica puso a la venta un Buick Electra 225 Convertible con estas características. El cabriolet había tenido el mismo propietario en los últimos 28 años y acabó vendiéndose por **49.900 $**.
-
-<img src="https://images-na.ssl-images-amazon.com/images/I/61cK1HVnKKL._SL1000_.jpg" class="responsive-img center">
 
 ### Los polaquitos del Caribe
 
@@ -91,7 +85,7 @@ En los años setenta un acuerdo entre Cuba y Polonia trajo a la isla un lote de 
 
 <img src="https://images-na.ssl-images-amazon.com/images/I/41JIgBdx%2BLL.jpg" class="responsive-img center">
 
-Los 126p sufren las temperaturas altas y no es raro verlos circular con la puerta del motor abierta. Otro punto débil es la corrosión que afecta la chapa, un problema muy común entre los coches de los setenta. Aún así los polaquitos son muy comunes en Cuba tanto que en el 2016 **superaban las 10.000 unidades**. Los utilitarios han sido objetos de varias modificaciones; los más conservadores se han limitado a parachoques, alerones o tapacubos cromados pero algunos han ido más allá. Los más atrevidos han remplazado los viejos motores Fiat con unos más modernos como, por ejemplo, aquellos del **Daewoo Tico**, un city car derivado del Suzuki Alto.
+Los 126p sufren las temperaturas altas y no es raro verlos circular con la puerta del motor abierta. Otro punto débil es la corrosión que afecta la chapa, un problema muy común entre los coches de los setenta. Aún así los polaquitos son muy comunes en Cuba tanto que en el 2016 **superaban las 10.000 unidades**. Los utilitarios han sido objetos de varias modificaciones; los más conservadores se han limitado a parachoques, alerones o tapacubos cromados pero algunos han ido más allá. Los más atrevidos han remplazado los viejos motores Fiat con unos más modernos como, por ejemplo, aquellos del [**Daewoo Tico**](https://www.amazon.es/Agostini-Set-Identical-Miniature-Cars/dp/B07CTR4F75/ref=sr_1_2?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=Daewoo+Tico&qid=1561051685&s=toys&sr=1-2 "Daewoo Tico 1:43 De Agostini "), un city car derivado del Suzuki Alto.
 
 ### Los clásicos soviéticos
 
