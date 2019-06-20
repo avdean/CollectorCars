@@ -37,3 +37,5 @@ fields:
 - type: boolean
   name: featured
   label: featured
+pages:
+- _posts/2019-06-04-alfasud-el-coche-salido-de-la-fábrica-de-patatas.md

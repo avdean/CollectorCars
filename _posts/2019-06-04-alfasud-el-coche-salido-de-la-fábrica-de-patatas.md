@@ -9,6 +9,7 @@ image: "/v1560768401/uploads/Alfasud.jpg"
 date: 2019-06-04T22:00:00.000+00:00
 comments: true
 featured: true
+author: matteo
 
 ---
 En 1971 Italia estaba en el pleno de los años de plomo y mientras la tensión política hacía tambalear el país en Pomigliano d'Arco (Nápoles) se ultimaba la primera fábrica meridional de Alfa Romeo.
@@ -31,7 +32,7 @@ Lamentablemente la escasa calidad de los materiales no era el único problema de
 
 <img src="https://images-na.ssl-images-amazon.com/images/I/41NpYkewyPL.jpg" class="responsive-img center">
 
-Para la presentación del deportivo los directivos de Alfa Romeo escogieron **Baia Domizia**, una la localidad balnearia en la frontera entre Campania (la región de Nápoles) y Lazio (la región de Roma). Los periodistas fueron citados en el Hotel Marina Residence y desde allí condujeron en las tortuosas carreteras que llevan al Santuario de Santa Maria dei Lattani, una iglesia a 800 metros sobre el nivel del mar. El Alfasud Sprint tenía una estabilidad mejorada y en principio era disponible en seis colores distintos: blanco Capodimonte, negro, rojo Alfa, gris Nisida, azul Posillipo y marrón Cilento. Posteriormente se añadieron otros tonos y uno de estos fue el verde brillante utilizado en la espléndida **maqueta 1:18 de Laudoracing**.
+Para la presentación del deportivo los directivos de Alfa Romeo escogieron **Baia Domizia**, una localidad balnearia en la frontera entre Campania (la región de Nápoles) y Lazio (la región de Roma). Los periodistas fueron citados en el Hotel Marina Residence y desde allí condujeron en las tortuosas carreteras que llevan al Santuario de Santa Maria dei Lattani, una iglesia a 800 metros sobre el nivel del mar. El Alfasud Sprint tenía una estabilidad mejorada y en principio era disponible en seis colores distintos: blanco Capodimonte, negro, rojo Alfa, gris Nisida, azul Posillipo y marrón Cilento. Posteriormente se añadieron otros tonos y uno de estos fue el verde brillante utilizado en la espléndida **maqueta 1:18 de Laudoracing**.
 
 <img src="https://images-na.ssl-images-amazon.com/images/I/41ptXTwcOdL.jpg" class="responsive-img center">
 
