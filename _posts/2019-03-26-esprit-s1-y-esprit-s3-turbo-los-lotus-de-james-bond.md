@@ -10,6 +10,7 @@ image: "/v1560798354/uploads/Lotus%20Esprit%20S1%202.jpg"
 date: 2019-03-26T23:00:00.000+00:00
 comments: true
 featured: false
+imageInPost: true
 
 ---
 Aston Martin y James Bond se conocieron en _Goldfinger_, consolidaron la relación en _Thunderball_ y estarán juntos también en _Shatterhand_, la próxima entrega de la saga. Sin embargo, en 1977 el agente secreto empezó una relación clandestina con una dama de nombre Esprit.

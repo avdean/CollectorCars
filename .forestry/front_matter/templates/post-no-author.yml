@@ -28,6 +28,9 @@ fields:
 - type: boolean
   name: featured
   label: featured
+- type: boolean
+  name: imageInPost
+  label: imageInPost
 pages:
 - _posts/abandonados-olvidados-y-radiactivos-los-coches-de-chernobyl.md
 - _posts/2019-03-01-tres-coches-soviéticos-que-tuvieron-éxito-en-occidente.md

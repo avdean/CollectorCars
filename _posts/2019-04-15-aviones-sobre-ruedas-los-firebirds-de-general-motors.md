@@ -12,6 +12,7 @@ image: "/v1560768676/uploads/Firebird_I.jpg"
 date: 2019-04-15T22:00:00.000+00:00
 comments: true
 featured: true
+imageInPost: true
 
 ---
 En el 1954 Ernest Hemingway ganaba el Premio Nobel con El viejo y el mar, Bill Haley estrenaba el primer sencillo de rock and roll y los automovilistas americanos empezaban a enamorarse de los deportivos. La primera generación del Chevrolet Corvette había salido un año antes pero mientras los mecánicos asemblaban el icónico  modelo en las fábricas de Flint y St. Louis, en el desierto de Arizona se testaba  el Firebird XP-21, el primer automóvil con turbina de gas.

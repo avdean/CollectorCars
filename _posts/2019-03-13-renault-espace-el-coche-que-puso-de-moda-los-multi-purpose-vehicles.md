@@ -9,6 +9,7 @@ image: "/v1560798475/uploads/Renault%20Espace.jpg"
 date: 2019-03-13T23:00:00.000+00:00
 comments: true
 featured: false
+imageInPost: true
 
 ---
 El monovolumen hizo su debut en los ochenta pero el proyecto que le inspiró es de una década anterior. El Kar-a-sutra del italiano Mario Bellini sentó las bases por una nueva gama de vehículos pensados para disfrutar y no solo para desplazarse.

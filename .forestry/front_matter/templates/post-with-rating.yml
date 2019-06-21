@@ -41,6 +41,9 @@ fields:
 - type: boolean
   name: featured
   label: featured
+- type: boolean
+  name: imageInPost
+  label: imageInPost
 - name: rating
   type: number
   label: Rating

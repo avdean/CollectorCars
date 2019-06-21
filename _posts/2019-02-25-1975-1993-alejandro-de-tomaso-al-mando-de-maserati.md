@@ -12,7 +12,7 @@ image: "/v1560707782/uploads/maserati-biturbo.jpg"
 date: 2019-02-25T23:00:00.000+00:00
 comments: true
 featured: false
-
+imageInPost: true
 ---
 La guerra de Yom Kipur provocó la primera crisis energética y al mismo tiempo hizo tambalear las ventas de los deportivos. Los Maserati de los setenta no pudieron cosechar el éxito esperado y en 1975 **Citroën** se vio obligada a deshacerse del Tridente que acabó en las manos de Peugeot.
 

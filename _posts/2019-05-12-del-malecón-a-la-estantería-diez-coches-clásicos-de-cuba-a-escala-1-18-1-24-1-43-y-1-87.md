@@ -19,6 +19,7 @@ image: "/v1560769037/uploads/Ford_Fairlane.jpg"
 date: 2019-05-12T22:00:00.000+00:00
 comments: true
 featured: true
+imageInPost: true
 
 ---
 Las calles de Cuba son un auténtico museo del automóvil. En el cemento de la isla circulan maravillas como el Chevrolet Bel Air o el Ford Fairlane que han sobrevivido al paso del tiempo gracias a las artimañas más ingeniosas.

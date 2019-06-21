@@ -12,6 +12,7 @@ image: "/v1560771944/uploads/Lada_Niva_1.jpg"
 date: 2019-03-01T23:00:00.000+00:00
 comments: true
 featured: false
+imageInPost: true
 ---
 Los automóviles rusos no destacaban por sus diseños pero ganaron nichos de mercado gracias a sus precios competitivos. Pasión en miniatura ha reunido los modelos más exitosos de la Unión Sovietica, piezas históricas que no pueden faltar en las colecciones de todos los apasionados.
 
