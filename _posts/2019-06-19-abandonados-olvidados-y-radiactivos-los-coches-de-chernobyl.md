@@ -1,6 +1,5 @@
 ---
 layout: post
-author: matteo
 title: 'Abandonados, olvidados y radiactivos: los coches de Chernobyl'
 categories: []
 tags:
